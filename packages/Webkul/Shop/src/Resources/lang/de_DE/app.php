@@ -23,31 +23,31 @@ return [
     ],
 
     'header' => [
-        'title' => 'Conta',
-        'dropdown-text' => 'Gerenciar Carrinho, Pedidos & Lista de Desejos',
-        'sign-in' => 'Entrar',
-        'sign-up' => 'Criar Conta',
-        'account' => 'Conta',
-        'cart' => 'Carrinho',
+        'title' => 'Konto',
+        'dropdown-text' => 'Warenkorb, Bestellungen und Wunschliste verwalten',
+        'sign-in' => 'Anmelden',
+        'sign-up' => 'Konto erstellen',
+        'account' => 'Konto',
+        'cart' => 'Einkaufswagen',
         'profile' => 'Perfil',
         'wishlist' => 'Lista de Desejos',
-        'cart' => 'Carrinho',
-        'logout' => 'Sair',
-        'search-text' => 'Pesquisar produtos aqui'
+        'cart' => 'Einkaufswagen',
+        'logout' => 'Zu gehen',
+        'search-text' => 'Suchen Sie hier nach Produkten'
     ],
 
     'minicart' => [
-        'view-cart' => 'Visualizar Carrinho',
-        'checkout' => 'Finalizar Compra',
-        'cart' => 'Carrinho',
+        'view-cart' => 'Warenkorb anzeigen',
+        'checkout' => 'Kasse',
+        'cart' => 'Einkaufswagen',
         'zero' => '0'
     ],
 
     'footer' => [
-        'subscribe-newsletter' => 'Assinar Newsletter',
-        'subscribe' => 'Assinar',
-        'locale' => 'Idioma',
-        'currency' => 'Moeda',
+        'subscribe-newsletter' => 'Newsletter abonnieren',
+        'subscribe' => 'abonnieren',
+        'locale' => 'Sprache',
+        'currency' => 'Währung',
     ],
 
     'subscription' => [
